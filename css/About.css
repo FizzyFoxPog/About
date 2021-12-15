@@ -1,0 +1,16 @@
+@font-face {
+      src: url(Fonts/MPLUS-Thin.ttf);
+      font-family: MPLUS;
+    }
+
+body {
+    background-color: cyan;
+}
+
+.header {
+    font-family: MPLUS;
+}
+
+.about {
+    font-family: MPLUS;
+}
